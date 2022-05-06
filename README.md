@@ -49,7 +49,8 @@ title.episode.tsv.gz
 title.principals.tsv.gz
 title.ratings.tsv.gz
 
-Links to the notebook and a description of the notebook's purpose
+## https://github.com/Sheleby/Netflix-animation-analytics/blob/main/presentation_andrew_sheleby.ipynb
+This is the entire notebook for all the datasets I collected and queried. Here will be the full example on what to expect to perform this data search, with a short video demonstration and link back to this github.
 
 ## Future Improvements:
 With more time, I would have liked to implement my Twitter API. I was able to figure it out to the last degree, but by the time it was ready, I couldn't use it. My biggest lesson would be to request for elevated permissions on the API in order to properly use it. Additionally, I started this project expecting to use the Netflix API to gather data on revenue and gross profit from cetain films, but halfway through this project, I found out that Netflix had shut down their API a few years ago. So in response, I would have wanted to take more time to look at tables for revenue of either movies and shows on Netflix or find data on the box office sales in movie theaters for certain movies. I had a difficult time finding tables specificially pertaining to Netflix subscriptions or revenue of any kind, so being more creative on profits would have been detrimental.
